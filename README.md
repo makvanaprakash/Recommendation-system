@@ -95,7 +95,7 @@ The primary objective was to build an AI-powered pipeline capable of classifying
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/sandesha21/Stock-Market-News-Sentiment-Analysis-and-Summarization.git
+   git clone https://github.com/makvanaprakash/Recommendation-system
    cd Stock-Market-News-Sentiment-Analysis-and-Summarization
    ```
 
@@ -140,12 +140,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 👨‍💻 Author  
-**Sandesh S. Badwaik**  
-*Applied Data Scientist & Machine Learning Engineer*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sbadwaik/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sandesha21)
 
 
 🌟 **If you found this project helpful, please give it a ⭐!**
